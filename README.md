@@ -1,6 +1,4 @@
-# Sprint 2
-
-## Save The Children
+# Save The Children
 ![savethechildren](https://user-images.githubusercontent.com/32868463/38585685-51eb733e-3ce0-11e8-8899-02ddcb9f38ba.png)
 
 
